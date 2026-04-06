@@ -1,5 +1,5 @@
 # Hi, I'm Ogutu Nerhius 👋
-Geospatial Information Science & Geomatic Engineering Student | GIS Analyst
+Geomatic Engineering  & Geospatial Information Science Student | GIS Analyst | Land Surveyor
 
 I specialize in spatial analysis, environmental modeling, Spatial Data Analysis(SDA), and Multi-Criteria Decision Analysis (MCDA). 
 
