@@ -28,4 +28,4 @@ I specialize in spatial analysis, environmental modeling, Spatial Data Analysis 
 **🗺️ Groundwater Potential Mapping in Kologi Ward**
 *Delineated optimal groundwater resource zones by integrating spatial geo-environmental data through Multi-Criteria Decision Analysis (MCDA).*
 * **Tech Stack:** ArcMap, DEM Processing, Spatial Analysis
-* [🔗 View Project Repository](https://github.com/neroogutu/nero_GIS_project)
+* [🔗 View Project Repository](https://github.com/neroogutu/nero_GIS_project1)
