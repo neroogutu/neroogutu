@@ -25,7 +25,7 @@ I specialize in spatial analysis, environmental modeling, Spatial Data Analysis 
 * **Tech Stack:** Android, Kotlin, WebView
 * [🔗 View Project Repository](https://github.com/neroogutu/Dembouz)
 
-**🗺️ Groundwater Potential Mapping in Kologi Ward**
-*Delineated optimal groundwater resource zones by integrating spatial geo-environmental data through Multi-Criteria Decision Analysis (MCDA).*
-* **Tech Stack:** ArcMap, DEM Processing, Spatial Analysis
+**🗺️ GEOSPATIAL ANALYSIS **
+ spatial data analysis through Multi-Criteria Decision Analysis (MCDA), PosgreSQL, R.*
+* **Tech Stack:** ArcMap, QGIS, DEM Processing, Spatial Analysis
 * [🔗 View Project Repository](https://github.com/neroogutu/nero_GIS_project1)
