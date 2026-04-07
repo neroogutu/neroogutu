@@ -19,7 +19,7 @@ I specialize in spatial analysis, environmental modeling, Spatial Data Analysis 
 
 ### 🚀 Featured Projects
 
-**📱 Dembouz (Geodesy Toolkit Android App)**
+**📱 Dembouz (Geodesy Toolkit Android and Apple App)**
 *A comprehensive mobile toolkit built for advanced geodetic computations, coordinate transformations, and astronomical calculations.*
 * **Key Features:** Ellipsoid parameter calculations (Prime Vertical, Gaussian/Euler Radii), Vicenty Iteration tracing, Geodetic ↔ Cartesian conversions, Height System solving (Orthometric/Ellipsoidal), and Kepler's orbital law visualizations.
 * **Tech Stack:** Android, Kotlin, WebView
